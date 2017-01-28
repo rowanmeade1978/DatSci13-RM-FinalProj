@@ -6,4 +6,6 @@ The problem of modelling football data has become increasingly popular in the la
 1. Using (PYMC): https://pymc-devs.github.io/pymc/
 2. Using (WinBUGS): http://winbugs-development.mrc-bsu.cam.ac.uk
 3. Using (Python) 
+
+
 # Rowan Meade - DatSciBos13
